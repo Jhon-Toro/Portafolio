@@ -1,5 +1,7 @@
 # Portafolio de Proyectos
 
+![Portafolio](https://github.com/Jhon-Toro/Portafolio/blob/main/Portafolio1.PNG) <br>
+![Portafolio](https://github.com/Jhon-Toro/Portafolio/blob/main/Portafolio2.PNG) <br>
 Bienvenido a mi portafolio en línea. Aquí podrás explorar una colección de mis proyectos, todos desarrollados con las tecnologías web más básicas para ofrecer una experiencia de usuario sencilla y directa.
 
 ## Enlace al Portafolio
