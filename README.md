@@ -6,7 +6,7 @@ Bienvenido a mi portafolio en línea. Aquí podrás explorar una colección de m
 
 ## Enlace al Portafolio
 
-Visita mi portafolio en línea: [https://portafolio.jhontoro.online/](https://portafolio.jhontoro.online/)
+Visita mi portafolio en línea: https://jhon-toro.github.io/Portafolio/
 
 ## Tecnologías Utilizadas
 
